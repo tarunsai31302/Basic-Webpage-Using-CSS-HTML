@@ -1,0 +1,126 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+
+}
+.container{
+	width: 960px;
+	background-color: #ffffff;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.header{
+	background-color: #ecf1f5;
+	overflow: hidden;
+	height: 160px;
+}
+.header img{
+	display: inline-block;
+	padding-left: 200px;
+	padding-top: 100px;
+	padding-bottom: 25px;
+}
+.header p{
+	padding-top: 35px;
+	text-align: center;
+	font-style: italic;
+}
+.header .time {
+	float: left;
+}
+.marvel .part1 p{
+	width: 300px;
+	padding-top: 20px;
+	}
+.marvel .part1{
+	float: left;
+	padding-left: 19px;
+}
+.marvel{
+	margin: 0 auto;
+	padding-left: 200px;
+	padding-top: 60px;
+}
+.DC{
+	clear: both;
+	padding-left: 200px;
+	padding-top: 80px;
+}
+.DC .part1 p{
+    width: 300px;
+    padding-top: 20px;
+}
+.DC .part1{
+	float: left;
+	padding-right: 19px;
+	padding-bottom: 100px;
+}
+.main3{
+	padding-left: 4px;
+	margin-top: 100px;
+}
+.image .part1 p{
+ width: 300px;
+ margin-top: 20px;
+}
+.image .part1{
+	float: right;
+	padding-right: 19px;
+}
+.image{
+	padding-top: 100px;
+	padding-right: 170px;
+}
+.Valiant{
+	clear: both;
+	padding-right: 180px;
+	padding-top: 80px;
+}
+.Valiant .part1 p{
+    width: 300px;
+    padding-top: 20px;
+}
+.Valiant .part1{
+	float: right;
+	padding-right: 19px;
+	padding-bottom: 100px;
+}
+.main5 {
+	width: 400px;
+	margin: 0 auto;
+	padding-bottom: 100px;
+	padding-right: 20px;
+}
+.footer{
+	clear: both;
+	margin-top: 60px;
+	background-color: #2d3b3f;
+}
+.footer .last{
+	padding-top: 80px;
+	text-align: center;
+	margin: 0 auto;
+}
+.footer .last1{
+	text-align: center;
+	padding-top: 10px;
+	color: #ebebec;
+	margin: 0 auto;
+}
+.footer .last2{
+	padding-left: 360px;
+	padding-top: 20px;
+	padding-bottom: 70px;
+	margin: 0 auto;
+}
+.footer2{
+	background-color: #232f32;
+	color: #ebebec;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	position: relative;
+}
+
